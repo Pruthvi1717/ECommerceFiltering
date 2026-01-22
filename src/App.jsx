@@ -1,15 +1,15 @@
 import { useState } from 'react'
 
 import './App.css'
-import Navigation from './Navigation/ Nav';
+import Navigation from './Navigation/Navnew';
 import Products from './Products/Products';
 import Recommended from './Recommended/Recommended';
-import Category from './Sidebar/Category/Category';
+
 import Sidebar from './Sidebar/Sidebar';
 
 //databases
 import products from "./db/data"
-import { AiFillStar } from 'react-icons/ai';
+
 import Card  from './Components/Card';
 
 const App = () => {

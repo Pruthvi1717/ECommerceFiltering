@@ -1,4 +1,4 @@
-import React from 'react'
+
 import "./Category.css"
 import Input  from "../../Components/Input";
 const Category = ({handleChange}) => {

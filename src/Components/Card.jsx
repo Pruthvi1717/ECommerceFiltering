@@ -1,5 +1,5 @@
 import { BsFillBagHeartFill } from "react-icons/bs";
-import { AiFillStar } from "react-icons/ai";
+
 const Card = ({img, title, star, reviews, newPrice, prevPrice}) => {
     
     return (

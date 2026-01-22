@@ -3,7 +3,7 @@ import { AiOutlineShoppingCart, AiOutlineUserAdd } from "react-icons/ai";
 import "../index.css"
 
 import "./Nav.css"
-import App from "../App";
+
 
 const Nav = ({query, handleInputChange}) => {
     return (

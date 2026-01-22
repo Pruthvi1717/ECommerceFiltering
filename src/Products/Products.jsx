@@ -1,7 +1,7 @@
 
 import "./Products.css"
 
-import Card  from "../Components/Card";
+
 
 const Products = ({result}) => {
     

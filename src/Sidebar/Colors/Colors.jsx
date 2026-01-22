@@ -1,7 +1,7 @@
-import React from 'react'
+
 import "./Colors.css"
 import Input  from "../../Components/Input";
-import { DiHtml5DeviceAccess } from 'react-icons/di';
+
 const Colors = ({handleChange}) => {
     
     return (
